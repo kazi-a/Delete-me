@@ -11,7 +11,7 @@ namespace Delete_me_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World NMC");
-            Console.WriteLine("press");
+          
 
             Console.ReadKey();
         }
